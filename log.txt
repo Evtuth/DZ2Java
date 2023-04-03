@@ -1,0 +1,4 @@
+апр. 03, 2023 11:44:06 PM Task1and2 writeToFile
+INFO: Запись успешно создана
+апр. 03, 2023 11:49:09 PM Task1and2 writeToFile
+INFO: Запись успешно создана
